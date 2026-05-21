@@ -144,4 +144,8 @@ This project is a personal learning project. Update the license information as n
     - A system thats trained yo understand and generate human kanguage 
     Examples : GPT GROK Llama
    ![alt text](image.png)
-   
+   #### understanding tokens 
+   ![alt text](image-1.png)
+   #### context window 
+   ![alt text](image-2.png)
+   #### choose the correct model 
