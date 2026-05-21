@@ -134,3 +134,14 @@ This project is a personal learning project. Update the license information as n
    - how to use them and what can do 
 ## AI Enginer :
    how to use AI models to solve probelms
+   Essentials AI Skills 
+   1. LargeLanguageModel (LLMs)
+   2. prompt Enginering 
+   3. Retrival-Augmented Generation (RAG)
+   4. vector Databases and sematic search 
+   5. Building agents 
+   #### whats is  LLms ? 
+    - A system thats trained yo understand and generate human kanguage 
+    Examples : GPT GROK Llama
+   ![alt text](image.png)
+   
