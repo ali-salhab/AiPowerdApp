@@ -125,3 +125,12 @@ Adjust the structure to match your course code.
 ## License
 
 This project is a personal learning project. Update the license information as needed.
+
+
+# Topics 
+
+## fundations 
+   - what is llms (large language models)
+   - how to use them and what can do 
+## AI Enginer :
+   how to use AI models to solve probelms
